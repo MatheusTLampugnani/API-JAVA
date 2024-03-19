@@ -16,4 +16,12 @@ public class App {
         });
 
     }
+
+    public static Post fromJson(String string, Class<Post> class1) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'fromJson'");
+    }
 }
+
+
+// teste
